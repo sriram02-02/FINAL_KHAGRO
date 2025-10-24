@@ -21,7 +21,7 @@ export const About = () => {
               About KH AGRO FOODS
             </h2>
             <p className="text-muted-foreground leading-relaxed">
-              With over 15 years of experience in international trade, GlobalTrade Solutions has established itself as a trusted partner for businesses seeking reliable import and export services. Our commitment to excellence and deep understanding of global markets has enabled us to build lasting relationships with clients across 50+ countries.
+              With over 15 years of experience in international trade, KH AGRO FOODS has established itself as a trusted partner for businesses seeking reliable import and export services. Our commitment to excellence and deep understanding of global markets has enabled us to build lasting relationships with clients across 50+ countries.
             </p>
             <p className="text-muted-foreground leading-relaxed">
               We specialize in facilitating seamless trade operations, offering comprehensive solutions from sourcing and procurement to logistics and delivery. Our team of experienced professionals ensures that every transaction meets the highest standards of quality and compliance.
