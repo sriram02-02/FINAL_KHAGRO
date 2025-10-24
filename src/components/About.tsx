@@ -18,7 +18,7 @@ export const About = () => {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <h2 className="text-3xl md:text-4xl font-bold text-foreground">
-              About GlobalTrade Solutions
+              About KH AGRO FOODS
             </h2>
             <p className="text-muted-foreground leading-relaxed">
               With over 15 years of experience in international trade, GlobalTrade Solutions has established itself as a trusted partner for businesses seeking reliable import and export services. Our commitment to excellence and deep understanding of global markets has enabled us to build lasting relationships with clients across 50+ countries.
