@@ -68,8 +68,10 @@ export const Footer = () => {
                 522006, Andhra Pradesh,<br />
                 India
               </p>
-              <p>+91 9948547000</p>
+              <p><span className="font-semibold">Primary:</span> +91 9848938837</p>
+              <p><span className="text-sm">Alternate:</span> +91 9948547000</p>
               <p>khagrofoods@gmail.com</p>
+              <p>khagroexporters@gmail.com</p>
             </div>
           </div>
         </div>
