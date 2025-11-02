@@ -22,7 +22,7 @@ export const Footer = () => {
                 <Twitter size={20} />
               </a>
               <a
-                href="https://www.linkedin.com/in/khagroexporters"
+                href="https://www.linkedin.com/in/khagroexports"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-accent transition-colors"
